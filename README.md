@@ -38,9 +38,4 @@ This Selenium test script demonstrates automated testing of the login functional
 ## Test Execution Reports
 The test execution generates HTML reports located in the `Reports` directory after test completion.
 
-## Contributors
-- [Massimiliano Visintainer](https://github.com/MassimilianoVisintainer)
-
-## Acknowledgments
-- The Selenium community and contributors for providing a robust testing framework.
 
