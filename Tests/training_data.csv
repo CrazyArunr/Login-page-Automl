@@ -1,0 +1,4 @@
+tag_name,attribute_name,attribute_value,text,locator_type
+meta,name,viewport,,NAME
+div,id,app,,ID
+oxd-toaster,id,oxd-toaster_1,,ID
